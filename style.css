@@ -1,0 +1,17 @@
+header {
+  Height: 50px;
+  Background: purple;
+  text-align: center;
+  color: Black;
+  font-family: cursive;
+}
+
+body {
+  background: lavender;
+}
+
+img {
+height: 150px;
+  float: right;
+  
+}
